@@ -1,0 +1,24 @@
+.toaster-wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 10px 30px;
+  border: 1px solid #80808090;
+  gap: 10px;
+  animation: animateToast 300ms linear;
+  .left-toast {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 5px;
+  }
+}
+
+@keyframes animateToast {
+  from {
+    transform: translateX(100px);
+  }
+  to {
+    transform: translateX(0);
+  }
+}

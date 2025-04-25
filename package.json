@@ -1,0 +1,30 @@
+{
+  "name": "react-toaster-fly",
+  "version": "1.0.0",
+  "main": "index.js",
+  "files": [
+    "index.js",
+    "src"
+  ],
+  "keywords": [
+    "react",
+    "toaster",
+    "message",
+    "popup"
+  ],
+  "peerDependencies": {
+    "react": "^18.0.0 || ^19.0.0",
+    "react-dom": "^18.0.0 || ^19.0.0"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Jawad-Ali-Soomro/ui-sidebar-react.git"
+  },
+  "homepage": "https://github.com/Jawad-Ali-Soomro/ui-sidebar-react#readme",
+  "bugs": {
+    "url": "https://github.com/Jawad-Ali-Soomro/ui-sidebar-react/issues"
+  }
+}
