@@ -1,6 +1,6 @@
 {
   "name": "react-toaster-fly",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "index.js",
   "files": [
     "index.js",
@@ -21,10 +21,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Jawad-Ali-Soomro/ui-sidebar-react.git"
+    "url": "https://github.com/Jawad-Ali-Soomro/react-toaster-fly.git"
   },
-  "homepage": "https://github.com/Jawad-Ali-Soomro/ui-sidebar-react#readme",
+  "homepage": "https://github.com/Jawad-Ali-Soomro/react-toaster-fly#readme",
   "bugs": {
-    "url": "https://github.com/Jawad-Ali-Soomro/ui-sidebar-react/issues"
+    "url": "https://github.com/Jawad-Ali-Soomro/react-toaster-fly/issues"
   }
 }
