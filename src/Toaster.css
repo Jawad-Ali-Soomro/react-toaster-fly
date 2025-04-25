@@ -2,7 +2,7 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  padding: 10px 30px;
+  padding: 10px 30px !important;
   border: 1px solid #80808090;
   gap: 10px;
   animation: animateToast 300ms linear;
