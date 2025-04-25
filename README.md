@@ -14,9 +14,9 @@ A lightweight, customizable React sidebar component with essential navigation fe
 ## Features
 
 - 🎨 Customizable colors for all elements
-- 🖥️ Logo support
-- 🔘 Built-in logout functionality
-- 🟠 Active item highlighting
+- 🖥️ Customizable Positions
+- 🔘 Custom Icon Support
+- 🟠 Active item highlighting - text color
 - 🔳 Configurable border radius
 - 📱 Responsive design
 
