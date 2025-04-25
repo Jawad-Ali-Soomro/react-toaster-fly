@@ -1,4 +1,4 @@
-# Ui Sidebar React
+# React Toaster Fly
 
 [![npm][version]][npm-url]
 [![License][license]][npm-url]
